@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body{
+ margin: 0px;
+ font-family: 'Roboto', sans-serif;
+}
+
+h1{
+ margin: 0px;
+ text-align: center;
+ background-color: #1C3180;
+ padding: 10px;
+ font-size: 54px;
+ color: white;
+ font-weight: 700;
+}
+
+img{
+ width: 100%;
+}
+
+.h2_1{
+ font-family: 'Poppins', sans-serif;
+ font-weight: 700;
+ font-size: 28px;
+}
+
+.p3{
+ font-size: 15px;
+ font-weight: 400;
+ line-height: 28px;
+ padding-bottom: 40px;
+}
+
+.p1{
+ color: #FE630E;
+ text-decoration: underline;
+
+}
+
+.p2{
+ font-weight: 700;
+}
+
+.p4{
+ margin: 0px;
+}
+.container{
+ width: 700px;
+ margin: 0 auto;
+}
+
+.fotter{
+ background: #1C3180;
+ padding: 50px;
+}
+
+.h2_2{
+ color:  #FE630E;
+ font-size: 33px;
+}
+
+.p4{
+ color: white;
+}
+
+.p5{
+ font-weight: 700;
+}
+
+.p6{
+ color: #FE630E;
+ text-decoration: underline;
+}
+
+.button-one{
+ background: #FE630E;
+ text-decoration: none;
+ padding: 10px;
+ margin-right: 5px;
+ color: white;
+}
+
+.button-two{
+ background: white;
+ text-decoration: none;
+ padding: 10px;
+ color: #1C3180;
+}
